@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Now Do This</string>
+  <string name="done">done.</string>
+  <string name="edit"><u>edit list</u></string>
+  <string name="all_done">all done!</string>
+  <string name="ready">ready</string>
+  <string name="default_todos">take a nap\nbuy pen\norganize room</string>
+  <string name="label_list">Enter your todo list:</string>
+  <string name="imgur">Imgur</string>
+  <string name="btn_img_choose">Choose a picture</string>
+  <string name="btn_img_upload">Upload</string>
+</resources>
